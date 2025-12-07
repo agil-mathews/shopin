@@ -1,4 +1,4 @@
-# flutter_template
+# shopin
 
 A new Flutter project.
 

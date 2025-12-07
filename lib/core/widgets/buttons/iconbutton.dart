@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_template/core/utils/mediaquery.dart';
+import 'package:shopin/core/utils/mediaquery.dart';
 
 class ButtonwithIcon extends StatelessWidget {
   final String label;

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:flutter_template/core/themes/color_scheme.dart';
-import 'package:flutter_template/core/utils/mediaquery.dart';
+import 'package:shopin/core/themes/color_scheme.dart';
+import 'package:shopin/core/utils/mediaquery.dart';
 
 
 class CustomButton extends StatelessWidget {
